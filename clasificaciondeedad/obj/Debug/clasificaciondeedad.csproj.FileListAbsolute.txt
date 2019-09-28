@@ -1,0 +1,10 @@
+D:\clasificaciondeedad\clasificaciondeedad\bin\Debug\clasificaciondeedad.exe.config
+D:\clasificaciondeedad\clasificaciondeedad\bin\Debug\clasificaciondeedad.exe
+D:\clasificaciondeedad\clasificaciondeedad\bin\Debug\clasificaciondeedad.pdb
+D:\clasificaciondeedad\clasificaciondeedad\obj\Debug\clasificaciondeedad.csprojAssemblyReference.cache
+D:\clasificaciondeedad\clasificaciondeedad\obj\Debug\clasificaciondeedad.Form1.resources
+D:\clasificaciondeedad\clasificaciondeedad\obj\Debug\clasificaciondeedad.Properties.Resources.resources
+D:\clasificaciondeedad\clasificaciondeedad\obj\Debug\clasificaciondeedad.csproj.GenerateResource.cache
+D:\clasificaciondeedad\clasificaciondeedad\obj\Debug\clasificaciondeedad.csproj.CoreCompileInputs.cache
+D:\clasificaciondeedad\clasificaciondeedad\obj\Debug\clasificaciondeedad.exe
+D:\clasificaciondeedad\clasificaciondeedad\obj\Debug\clasificaciondeedad.pdb
